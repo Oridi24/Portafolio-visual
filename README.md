@@ -1,6 +1,6 @@
 # *Virtual Portfolio*
 
-*Welcome to my **Virtual Portfolio**! This project was designed to showcase my work in **predictive analytics, data-driven solutions, and AI projects** in a clear and interactive way.*
+*Welcome to my **Virtual Portfolio**! This portfolio was created to showcase my work in **predictive analytics, data-driven solutions, and AI,** but also to give a glimpse of who I am as a professional and person. It’s not just a collection of projects: it’s a space where I combine technical rigor, business thinking, and a touch of curiosity and humor.*
 
 ---
 
