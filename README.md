@@ -11,7 +11,7 @@
 
 ---
 
-## 🎯 *Objective*
+##  *Objective*
 
 - *Provide a **comprehensive view** of my projects and skills.*  
 - *Highlight **business impact** and practical applications of analytics and machine learning.*  
@@ -19,7 +19,7 @@
 
 ---
 
-## 💡 *Features*
+##  *Features*
 
 - ***Interactive project showcase** with descriptions, visuals, and results.*  
 - ***Highlight of key technologies and methods** used in each project.*  
