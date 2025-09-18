@@ -25,3 +25,8 @@
 - ***Highlight of key technologies and methods** used in each project.*  
 - ***Clear demonstration of business impact**, not just technical details.*  
 - ***Responsive design** for smooth browsing on any device. * 
+
+---
+⚠️ ***Disclaimer***
+
+*Due to confidentiality, this portfolio includes reproductions of professional work and/or academic projects using public datasets. All data used is either publicly available or authorized to be shared, ensuring compliance with ethical and confidentiality standards."*
